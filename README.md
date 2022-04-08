@@ -1,2 +1,2 @@
 # DataScience
-Cursos voltados para Data Science
+Cursos voltados para Data Science, em sua maioria, realizados na plataforma de cursos ALURA.
